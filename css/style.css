@@ -1,0 +1,29 @@
+.crd-info{
+    bottom: 10px;
+    width: 80%;
+    left: 50%;
+    transform: translate(-50%);
+    background-color: #ffffff9d;
+}
+
+.container-overlay{
+    background-color: rgba(0, 0, 0, 0.205);
+}
+
+.overlay{
+    width: 600px;
+    height: 500px;
+    background-image: url(../images/1.jpeg);
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+.esc {
+    top: 13px;
+    right: 13px;
+    cursor: pointer;
+}
+
+.next,.prev{
+    cursor: pointer;
+}
